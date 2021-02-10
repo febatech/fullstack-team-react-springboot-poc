@@ -27,7 +27,7 @@ This repository is basically divided into two parts; frontend and backend.
 * mvn clean install -Dmaven skip.test=true
 * java -jar target/springboot-0.0.1-SNAPSHOT.jar
 
-# mysql
+# mysql:
 * command to take the sql dump
   mysqldump -u [user] -p [database_1] [database_2] [database_etc] > [filename].sql
 * command to restore dump 
