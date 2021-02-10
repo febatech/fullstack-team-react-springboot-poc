@@ -8,7 +8,7 @@ This repository is basically divided into two parts; frontend and backend.
 * How to encapsulate the backend to the frontend?
 
 # Prerequisits 
-* maven, npm and JAVA pre-installed, mysql. 
+* maven, npm and java, mysql. 
 
 # To run the application, run the following commands from the console.
 
