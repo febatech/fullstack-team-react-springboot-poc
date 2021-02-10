@@ -1,5 +1,5 @@
 # fullstackteam-poc-for-employee
-A full stack web application for anyone who is looking for designing a web app which uses Springboot as a backend framework and React.js as frontend.
+A full stack web application for individual who is looking for designing a web app which uses Springboot as a backend framework and React.js as frontend.
 This repository is basically divided into two parts; frontend and backend.
 
 # It covers the below items:
@@ -8,13 +8,14 @@ This repository is basically divided into two parts; frontend and backend.
 * How to encapsulate the backend to the frontend?
 
 # Prerequisits 
-* maven, npm and JAVA pre-installed, which most probably you'll already have. 
+* maven, npm and JAVA pre-installed, mysql. 
 
 # To run the application, run the following commands from the console.
 
-The default port number for running react.js application http://localhost:3000 and 
-springboot it is http://localhost:8080
-To view the database, you can click on http://localhost:8080/view
+* The default port number for running react.js application http://localhost:3000 
+* springboot it is http://localhost:8080
+* To view the database, you can click on http://localhost:8080/view
+
 
 # Frontend:
 * npm install
