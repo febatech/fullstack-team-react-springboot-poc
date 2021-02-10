@@ -23,5 +23,6 @@ This repository is basically divided into two parts; frontend and backend.
 
 # Backend: 
 * mvn clean install
-* mvn -Dmaven skip.test=true install (to skip tests)
+* To skip running the tests for a particular project, set the maven.test.skip property to true
+* mvn clean install -Dmaven skip.test=true install
 * java -jar target/springboot-0.0.1-SNAPSHOT.jar
